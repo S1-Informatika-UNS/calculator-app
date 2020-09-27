@@ -19,11 +19,11 @@
 
 Anda dapat melakukan build dan run code ini melalui IDE / command line dan memeriksa output method-method yang sudah anda tulis.
 
-Atau anda dapat menjalankan script unit test yang sudah disertakan pada project ini (file **test/java/com/hello/CalculatorTest.java**).
+Atau anda dapat menjalankan script unit test yang sudah disertakan pada project ini (file **src/test/java/com/hello/CalculatorTest.java**).
 
 ### Kriteria penilaian
 
-1. Unit test **test/java/com/hello/CalculatorTest.java** passed
+1. Unit test **src/test/java/com/hello/CalculatorTest.java** passed
 
 2. Ada code untuk menampilkan output method di dalam method main file **src/main/java/com/hello/Calculator.java**
 
@@ -46,11 +46,11 @@ Atau anda dapat menjalankan script unit test yang sudah disertakan pada project 
 
 You can build and run your code using any IDE or command line, check the output from your methods.
 
-Or you can tun the unit test script included in this project (**test/java/com/hello/CalculatorTest.java**).
+Or you can tun the unit test script included in this project (**src/test/java/com/hello/CalculatorTest.java**).
 
 ### How to get the best score 
 
-1. Unit test **test/java/com/hello/CalculatorTest.java** must passed
+1. Unit test **src/test/java/com/hello/CalculatorTest.java** must passed
 
 2. You must show the output from subtract, multiply, and division method inside **src/main/java/com/hello/Calculator.java**
 
