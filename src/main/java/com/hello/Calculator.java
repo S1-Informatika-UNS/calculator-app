@@ -35,5 +35,9 @@ public class Calculator {
 		// add two numbers
 		double resultOfAddition = calculator.addNumbers();
 		System.out.println(calculator.number1 + " + " + calculator.number2 + " = " + resultOfAddition);
+
+		// TODO :
+		// tambahkan code untuk menampilkan hasil pengurangan, perkalian, dan pembagian
+		// add new code to show the result of subtraction, multiplication, and division of the numbers
 	}
 }
