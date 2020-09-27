@@ -16,6 +16,14 @@ public class Calculator {
 		int result = this.number1 + this.number2;
 		return result;
 	}
+
+	// TODO :
+	// tambahkan method untuk mengurangi, mengkalikan, dan membagi bilangan
+	// add new method to subtract, multiply, and divide numbers
+	// gunakan nama-nama method sebagai berikut (use this methods name)
+	// subtractNumbers (mengurangi bilangan / subtract numbers)
+	// multiplyNumbers (mengkalikan bilangan / multiply numbers)
+	// divisionNumbers (memembagi bilangan / divide numbers)
 	
 	// main method
 	public static void main(String[] args) {
@@ -25,7 +33,7 @@ public class Calculator {
 		System.out.println("second number : " + calculator.number2);
 		
 		// add two numbers
-		double resultOfAddition = calculator.divisionNumbers();
-		System.out.println(calculator.number1 + " / " + calculator.number2 + " = " + resultOfAddition);
+		double resultOfAddition = calculator.addNumbers();
+		System.out.println(calculator.number1 + " + " + calculator.number2 + " = " + resultOfAddition);
 	}
 }
