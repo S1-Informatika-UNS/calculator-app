@@ -1,5 +1,9 @@
 package com.hello;
 
+// TODO :
+// tulis NIM - Nama - Kelas di sini
+// write your Student ID Number - Name - Class (A/B/C)
+
 public class Calculator {
 	// attributes
 	int number1, number2;
